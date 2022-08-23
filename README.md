@@ -1,16 +1,29 @@
 # MADPractical1_21012012016
 Practical-1
-![Screenshot (3)](https://user-images.githubusercontent.com/110770530/184584009-0f7ce9af-5f67-4cf0-bf2c-1323de50e93e.png)
+![p1](https://user-images.githubusercontent.com/110770530/186239591-b3dd5852-b0ee-4067-84b8-f9c2a1b47cc2.png)
 Practical-2
-![Screenshot (4)](https://user-images.githubusercontent.com/110770530/184584446-76c625ec-1dcf-44c6-9315-95cc95095d86.png)
+![p2](https://user-images.githubusercontent.com/110770530/186239644-a5750696-4ed2-4a69-bce2-904247eccee0.png)
 Practical-3
-![Screenshot (5)](https://user-images.githubusercontent.com/110770530/184584866-5ce2d86c-3708-4115-a0ae-0ffc875a1824.png)
+![p3](https://user-images.githubusercontent.com/110770530/186239670-a8f77c82-4cc1-4616-9b95-7d308d99ac61.png)
 Practical-4
-![Screenshot (6)](https://user-images.githubusercontent.com/110770530/184585267-3e3f6a78-4748-4cc9-853d-cecae260c95e.png)
+![p4](https://user-images.githubusercontent.com/110770530/186239698-da46f9c5-aebb-4f66-a408-a2091b39163e.png)
 Practical-5
-![Screenshot (7)](https://user-images.githubusercontent.com/110770530/184585677-8cbca229-83fc-4040-a5e8-ad303561ed3b.png)
+![p5](https://user-images.githubusercontent.com/110770530/186239733-0dd8b1bb-24dc-4701-951f-daca8ab40a54.png)
 Practical-6
-![Screenshot (8)](https://user-images.githubusercontent.com/110770530/184586257-e9f01f45-bc31-4cb6-9976-56be5af2f52a.png)
+![p6](https://user-images.githubusercontent.com/110770530/186239751-14d7e249-403e-46eb-8959-5763bda6482f.png)
 Practical-7
-![Screenshot (9)](https://user-images.githubusercontent.com/110770530/185982893-f1d720c7-d5d0-462d-9701-1d464ea28056.png)
+![p7](https://user-images.githubusercontent.com/110770530/186239771-967f3e8e-b17f-46b1-b99b-83ffa06e7318.png)
 Practical-8
+![p8](https://user-images.githubusercontent.com/110770530/186239793-e1aa9024-7a64-4d78-ac1c-8bd29b29162d.png)
+Practical-9
+![p9](https://user-images.githubusercontent.com/110770530/186239809-4254009b-8a99-4cce-ad8c-5aa635fedbcb.png)
+Practical-10
+![p10](https://user-images.githubusercontent.com/110770530/186239851-0cc1ffc2-e88b-4c7a-b357-e829ee833cb1.png)
+Practical-11
+![p11](https://user-images.githubusercontent.com/110770530/186239882-1c250552-4f34-4e71-86b5-a18e1abfcebb.png)
+extra-1
+![extra1](https://user-images.githubusercontent.com/110770530/186239949-cc90ac02-34ae-41a7-9bdc-bb61e4ea2c10.png)
+extra-2
+![extra2](https://user-images.githubusercontent.com/110770530/186239991-96e08553-44d0-415b-a5b5-947c7be90edb.png)
+extra-3
+![extra3](https://user-images.githubusercontent.com/110770530/186240018-aecdaafc-675f-4adc-97f1-b794bf39a3ec.png)
